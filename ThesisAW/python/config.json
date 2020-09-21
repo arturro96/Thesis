@@ -1,0 +1,7 @@
+{
+  "goal": "relation",
+  "data_path": "files/clustering_all_active_all.csv",
+  "slot_to_predict": 50,
+  "oversample": 1,
+  "n_clusters": 5
+}
